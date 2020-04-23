@@ -1,2 +1,2 @@
 # First
-Just first
+Just my first repository
